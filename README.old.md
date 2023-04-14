@@ -1,2 +1,1 @@
-# Kasa_Takip_FE
-mitaskin
+React Dersleri kanalında yayınlanan Expense Tracker uygulaması eğitim serisi için hazırlanan boş proje.
